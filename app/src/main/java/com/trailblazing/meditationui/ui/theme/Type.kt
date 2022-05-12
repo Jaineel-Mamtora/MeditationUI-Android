@@ -7,8 +7,6 @@ import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
 import com.trailblazing.meditationui.R
-import com.trailblazing.meditationui.ui.AquaBlue
-import com.trailblazing.meditationui.ui.TextWhite
 
 val gothicA1 = FontFamily(
     listOf(
